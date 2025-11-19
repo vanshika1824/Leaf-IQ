@@ -1,0 +1,7 @@
+streamlit
+pillow
+opencv-python
+numpy
+requests
+tensorflow==2.12
+fpdf
