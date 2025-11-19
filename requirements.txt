@@ -1,7 +1,6 @@
-streamlit
-pillow
-opencv-python
-numpy
-requests
-tensorflow==2.12
-fpdf
+streamlit==1.26.0
+tensorflow==2.14.0
+numpy==1.25.0
+opencv-python-headless==4.8.1.78
+pillow==10.1.0
+fpdf==1.7.2
